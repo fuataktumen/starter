@@ -10,3 +10,5 @@
 
 
 4.deneme
+
+5.deneme from github
