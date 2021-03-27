@@ -2,4 +2,11 @@
 
 2.deneme
 
+<<<<<<< HEAD
 
+=======
+3. deneme from github
+>>>>>>> 36d3aa369ac911dc9799218e38392f411087386b
+
+
+4.deneme
